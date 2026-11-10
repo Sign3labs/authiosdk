@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AuthIoSDK",
-            url: "https://cdn.sign3.in/mobile-sdk/ios/test/authio/v\(version)/AuthIoSDK.xcframework.zip",
-            checksum: "85d2e9cdbcd50be902eb1cc5165a07ec44200123a9f554a541fe0189481aa627"
+            url: "https://cdn.sign3.in/mobile-sdk/ios/test/authio/v\(version)/AuthIoSDK-3.0.2.xcframework.zip",
+            checksum: "5cce8ccd03c4050b1cad72c9855edceb29fbe627f3fe6a211961cc1a8e6c03c4"
         )
     ]
 )
